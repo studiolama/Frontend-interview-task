@@ -32,20 +32,20 @@ Phone | must be a valid phone number|
 
 ## Step-2
 - In the second step display list of options with data as mentioned in the figma (json object is available in the constants folder refer to it and check figma link for design reference).
--- It should have multiple select option i.e user should be able to select one or more options and each card should be toggleable(select and deselect).
--- Store the selected options in the array of objects format in state using useState hook.
--- Atleast one option is mandatory to proceed further otherwise disabled the next button but user should be able to move back to previous step as shown in figma there is back button on the top of the card.
--- After selection display subcategory for each selected options one by one (subcategory data is available in the constants folder).
--- Again user must be able to select/deselect any subcategory options and user should be able to select one or more options but atleast one option is mandatory
--- Note : Make sure subcategory should be handled separately within second step. (Main progress steps should be at 2nd while category and subcategory selection).
--- When user is in second step then back button on the top should work accordingly
+- It should have multiple select option i.e user should be able to select one or more options and each card should be toggleable(select and deselect).
+- Store the selected options in the array of objects format in state using useState hook.
+- Atleast one option is mandatory to proceed further otherwise disabled the next button but user should be able to move back to previous step as shown in figma there is back button on the top of the card.
+- After selection display subcategory for each selected options one by one (subcategory data is available in the constants folder).
+- Again user must be able to select/deselect any subcategory options and user should be able to select one or more options but atleast one option is mandatory
+- Note : Make sure subcategory should be handled separately within second step. (Main progress steps should be at 2nd while category and subcategory selection).
+- When user is in second step then back button on the top should work accordingly
    for example : If user has selected three category and user is in 2nd subcategory options list and if user clicks on back button then it should take the user back to previous subcategory options list not the previous step.
--- After successful validation store all the data in the localstorage and allow next button and move the progress indicator to the 3rd step.
+- After successful validation store all the data in the localstorage and allow next button and move the progress indicator to the 3rd step.
 
 ## Step-3
 - In 3rd step display textarea where user can explain problems (it is optional field)
--- If user entered any information and store it in state and onClick next button store the information in the local storage.
--- Move the progress indicator to the 4th step.
+- If user entered any information and store it in state and onClick next button store the information in the local storage.
+- Move the progress indicator to the 4th step.
 
 ## Step-4
 - In the 4th step take basic information from the user using date and time selector/picker  and onClick Submit display all information in the final screen.
@@ -58,7 +58,7 @@ Phone | must be a valid phone number|
 |Call type | is optional but pre-select any one option |
 
 ## Display data
--- Display are the information in the new page that you have stored in local storage in each step.
+- Display are the information in the new page that you have stored in local storage in each step.
 
 **Host it on any free server or send complete code in the github repo**
 
