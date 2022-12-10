@@ -64,8 +64,8 @@ Phone | must be a valid phone number|
 
 
 **Happy coding** 
-If you did not able to complete or having problem in understanding the problem statement ?. Send your query at **
--hello@studiolama.design
+If you did not able to complete or having problem in understanding the problem statement ?. Send your query at : 
+hello@studiolama.design
 
 
  
