@@ -6,7 +6,7 @@ Setup a new React Application.
 Note : - You are free to use any CSS library or framework
 
 Check figma file for better understanding of task and exact requirements
-figma link : [https://www.figma.com/file/OahbXfHUfIM2Fc6B8Yeg3t/Internship-task?node-id=0%3A1&t=Jsh96WYtr7PKQx5k-1]
+figma link : https://www.figma.com/file/82avrG80vnrOCB7FmpZGJx/SL-Internship-task?type=design&node-id=0%3A1&mode=design&t=esxflS0F5mv1uEH1-1
 
 
 
